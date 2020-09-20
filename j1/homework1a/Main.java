@@ -1,4 +1,4 @@
-package ru.geekbrains.java_one.homework.homework1a;
+package ru.geekbrains.java.homework.j1.homework1a;
 
 public class Main {
     public static void main(String[] args) {

@@ -1,4 +1,4 @@
-package ru.geekbrains.java_one.homework.homework6a;
+package ru.geekbrains.java.homework.j1.homework6a;
 
 public class Cat extends Animal {
     private static final int BASE_RUN_BOUND = 150;

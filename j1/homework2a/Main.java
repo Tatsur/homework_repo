@@ -1,4 +1,4 @@
-package ru.geekbrains.java_one.homework.homework2a;
+package ru.geekbrains.java.homework.j1.homework2a;
 
 import java.util.Arrays;
 

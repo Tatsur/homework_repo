@@ -1,4 +1,4 @@
-package ru.geekbrains.java_one.homework.homework4a;
+package ru.geekbrains.java.homework.j1.homework4a;
 
 import java.util.Random;
 import java.util.Scanner;

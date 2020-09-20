@@ -1,4 +1,4 @@
-package ru.geekbrains.java_one.homework.homework8a;
+package ru.geekbrains.java.homework.j1.homework8a;
 
 import java.awt.*;
 

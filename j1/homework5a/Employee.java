@@ -1,4 +1,4 @@
-package ru.geekbrains.java_one.homework.homework5a;
+package ru.geekbrains.java.homework.j1.homework5a;
 
 public class Employee {
     private final String fullName;
