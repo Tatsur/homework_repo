@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.control.SplitPane?>
+<?import javafx.scene.control.TextArea?>
+<?import javafx.scene.effect.Blend?>
+<?import javafx.scene.layout.AnchorPane?>
+
+<SplitPane dividerPositions="0.15" prefHeight="73.0" prefWidth="174.0" style="-fx-background-color: white; -fx-border-color: cyan;" xmlns="http://javafx.com/javafx/11.0.1" xmlns:fx="http://javafx.com/fxml/1">
+  <items>
+    <AnchorPane minHeight="0.0" minWidth="0.0" prefHeight="45.0" prefWidth="181.0">
+         <children>
+            <Label alignment="CENTER" contentDisplay="CENTER" layoutX="45.0" layoutY="15.0" text="Label" textAlignment="CENTER" AnchorPane.bottomAnchor="0.0" AnchorPane.leftAnchor="0.0" AnchorPane.rightAnchor="0.0" AnchorPane.topAnchor="0.0" />
+         </children></AnchorPane>
+    <AnchorPane minHeight="0.0" minWidth="0.0" prefHeight="44.0" prefWidth="141.0">
+         <children>
+            <TextArea editable="false" layoutY="-1.0" prefHeight="95.0" prefWidth="141.0" wrapText="true" AnchorPane.bottomAnchor="-26.0" AnchorPane.leftAnchor="0.0" AnchorPane.rightAnchor="0.0" AnchorPane.topAnchor="0.0" />
+         </children></AnchorPane>
+  </items>
+   <effect>
+      <Blend />
+   </effect>
+</SplitPane>
